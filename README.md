@@ -8,8 +8,9 @@ Version Olympian is made by BayminBomu.
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
-2. Click on the "Raw" button on the script file to open the script file.
-3. Tampermonkey should detect the script and prompt you to install it. Click "Install" to complete the process.
+2. Click on Latest Release
+3. Click the .JS Script
+4. Tampermonkey should detect the script and prompt you to install it. Click "Install" to complete the process.
 
 
 ## Usage
