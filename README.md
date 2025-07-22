@@ -1,8 +1,10 @@
-# Airline Manager 4 Bot
+# Airline Manager 4 Bot Version Olympian
 This bot is designed for the airline management simulation game, Airline Manager 4. 
 It is intended to automate certain tasks in the game and make gameplay easier and more enjoyable.
 
 Please note that this bot is against the Terms of Service of the game and its use may result in your account being banned. Use at your own risk.
+
+Version Olympian is made by BayminBomu.
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
@@ -22,7 +24,7 @@ This bot is currently in development and its functionality is limited. It can cu
 
 More features will be added in future updates.
 
-Some Features that were promised by LouisJ are scrapped due to the difficulty of it.
+ Notes = Some Features that were promised by LouisJ are scrapped due to the difficulty of it.
 
 ## Disclaimer
 The use of this bot is against the Terms of Service of Airline Manager 4. 
