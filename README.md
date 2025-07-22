@@ -19,6 +19,7 @@ This bot is currently in development and its functionality is limited. It can cu
 - [x] Auto-start eco-friendly campaign
 - [x] Buy fuel at low price
 - [x] Buy CO2 quotas at low price
+- [x] Add Auto Maintenance (Added by BayminB)
 - [ ] Launch A-checks 
 - [ ]  ~Buying new planes and setting up new routes~
 
