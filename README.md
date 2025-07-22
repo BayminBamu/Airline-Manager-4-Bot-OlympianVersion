@@ -20,7 +20,7 @@ This bot is currently in development and its functionality is limited. It can cu
 - [x] Buy fuel at low price
 - [x] Buy CO2 quotas at low price
 - [x] Add Auto Maintenance (Added by BayminB)
-- [ ] Launch A-checks 
+- [ ] Launch A-checks (WIP)
 - [ ]  ~Buying new planes and setting up new routes~
 
 More features will be added in future updates.
