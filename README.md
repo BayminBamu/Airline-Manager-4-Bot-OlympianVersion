@@ -18,9 +18,11 @@ This bot is currently in development and its functionality is limited. It can cu
 - [x] Buy fuel at low price
 - [x] Buy CO2 quotas at low price
 - [ ] Launch A-checks 
-- [ ] Buying new planes and setting up new routes
+- [ ]  ~Buying new planes and setting up new routes~
 
 More features will be added in future updates.
+
+Some Features that were promised by LouisJ are scrapped due to the difficulty of it.
 
 ## Disclaimer
 The use of this bot is against the Terms of Service of Airline Manager 4. 
