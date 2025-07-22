@@ -25,7 +25,7 @@ This bot is currently in development and its functionality is limited. It can cu
 
 More features will be added in future updates.
 
- Notes = Some Features that were promised by LouisJ are scrapped due to the difficulty of it.
+ Notes: Some Features that were promised by LouisJ are scrapped due to the difficulty of it.
 
 ## Disclaimer
 The use of this bot is against the Terms of Service of Airline Manager 4. 
