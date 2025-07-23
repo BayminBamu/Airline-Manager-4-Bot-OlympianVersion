@@ -6,6 +6,7 @@ Please note that this bot is against the Terms of Service of the game and its us
 
 Version Olympian is made by BayminBomu.
 
+The python version is abandoned.
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
 2. Click on Latest Release
